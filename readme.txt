@@ -1,5 +1,5 @@
 --------------- Dark Mode Calculator Using Python ---------------------
-Every coder once is a lifetime has to overcome a project of developing a calculator.
+Every coder once in a lifetime has to overcome a project of developing a calculator.
 This is a calculator which is in dark theme mode. 
 This is not a basic calculator, it has 9 operations that are :- Addition, Subtraction, Multiplication, Division, Reciprocal, Percentage and much more.
 This is a GUI based calculator based on Python. 
