@@ -34,4 +34,4 @@ Buttons Involed in calculator :-
 Apart from it there are many variables and functions involved in this code but they are easy to understand.
 
 This code is by Karan shah.
-PLEASE FOLLOW ME ON LINKEDIN :- https://www.linkedin.com/in/karan-shah-b7a778228/
+PLEASE FOLLOW ME ON LINKEDIN :- https://www.linkedin.com/in/karan-shah2001/
